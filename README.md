@@ -1,2 +1,2 @@
 # Threat-Engine
-thread engine for security threat 
+Threat engine that is used to detect the malware presence
